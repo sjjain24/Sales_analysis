@@ -1,5 +1,6 @@
 # Sales_analysis
 This is  descriptive Diwali_Sales analysis project 
+
 OBJECTIVE:
 In-depth exploratory data analysis was conducted to reveal fascinating insights.
 The analysis includes customer demographics, purchase history, and product categories were analyzed
